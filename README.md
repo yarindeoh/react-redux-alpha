@@ -1,2 +1,3 @@
-# react-redux-alpha
-react-redux todoList app using alpha version
+# react-redux TodoList
+
+Using react-redux alpha version
